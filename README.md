@@ -1,5 +1,4 @@
-# This repository has been edited for CS520 exercise 1. This edit is for section 5.5!
-## Basic Statistics
+# Basic Statistics
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
